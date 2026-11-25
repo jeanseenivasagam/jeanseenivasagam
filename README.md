@@ -31,13 +31,6 @@ Since the AI boom, I've been focused on working with AI models to build faster a
 
 - 🔭 Building projects with AI-assisted development
 - 🌱 Deepening my skills in prompt engineering and GEO
-- 💬 Open to collaborations and freelance work
-
-## Get in Touch
-
-- 📧 Email: your-email@example.com
-- 🌐 Website: [your-website.com](https://your-website.com)
-- 💼 LinkedIn: [jeanseenivasagam](https://www.linkedin.com/in/jeanseenivasagam/)
 
 ---
 
