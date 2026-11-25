@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Jean Rae 👋
 
 **Designer turned developer.** I build websites, Android apps, and tools with AI, and I care about work that looks good, runs well, and gets found.
 
