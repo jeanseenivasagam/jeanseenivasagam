@@ -37,7 +37,7 @@ Since the AI boom, I've been focused on working with AI models to build faster a
 
 - 📧 Email: your-email@example.com
 - 🌐 Website: [your-website.com](https://your-website.com)
-- 💼 LinkedIn: [your-profile](https://www.linkedin.com/in/jeanseenivasagam/)
+- 💼 LinkedIn: [jeanseenivasagam](https://www.linkedin.com/in/jeanseenivasagam/)
 
 ---
 
